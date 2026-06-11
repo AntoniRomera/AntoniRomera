@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/AntoniRomera"><img src="https://img.shields.io/badge/GitHub-AntoniRomera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:aromera@astrohms.com"><img src="https://img.shields.io/badge/Email-aromera@astrohms.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:toniromeraluis@gmail.com"><img src="https://img.shields.io/badge/Email-toniromeraluis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -78,7 +78,7 @@ I design and ship **AI-powered systems** end to end — from multi-provider agen
 
 <p align="center">
   <a href="https://github.com/AntoniRomera">GitHub</a> ·
-  <a href="mailto:aromera@astrohms.com">aromera@astrohms.com</a>
+  <a href="mailto:toniromeraluis@gmail.com">toniromeraluis@gmail.com</a>
 </p>
 
 <p align="center"><sub>Thanks for stopping by — feel free to explore the repos above.</sub></p>
